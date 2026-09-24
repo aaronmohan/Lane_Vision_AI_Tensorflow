@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaneVision AI</string>
+    <string name="instruction2">This is an Android app for detecting lanes on a road using a camera, working best on highways. The code processes the video frames captured by the camera and identifies the lanes by applying image processing and AI techniques.
+                                \n\nThe app uses OpenCV and TensorFlow Lite for computer vision and deep learning inference. It processes input frames, masks the region of interest, and predicts driving lane boundaries.
+                                \n\nThe detected lanes are analyzed to estimate distance from vehicle center to lane edges.
+                                \n\nThe scale parameter can be adjusted in real time to convert pixel measurements to physical meters.
+    </string>
+</resources>
