@@ -15,7 +15,7 @@ An on-device **Advanced Driver Assistance System (ADAS)** Android app providing 
 |:---:|:---:|
 | <img src="screenshots/lane_detection_example_1.jpg" width="100%" alt="Lane Detection Example 1"/> | <img src="screenshots/lane_detection_example_2.jpg" width="100%" alt="Lane Detection Example 2"/> |
 
-> **HUD Overlays:** 🟢 Left Ego-Lane &nbsp;|&nbsp; 🔴 Right Ego-Lane &nbsp;|&nbsp; 🟦 Drivable Corridor Polygon &nbsp;|&nbsp; 📏 Live Lane Telemetry in meters
+> **HUD Overlays:** 🟢 Left Ego-Lane &nbsp;|&nbsp; 🔵 Right Ego-Lane &nbsp;|&nbsp; 🟦 Drivable Corridor Polygon &nbsp;|&nbsp; 📏 Live Lane Telemetry in meters
 
 ---
 
